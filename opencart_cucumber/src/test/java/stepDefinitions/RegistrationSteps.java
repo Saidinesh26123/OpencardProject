@@ -22,7 +22,7 @@ public class RegistrationSteps {
      LoginPage lp;
      AccountRegistrationPage regpage;
      
-	@Given("the user navigates to Register Account page")
+	@Given("the user navigates ncjksdfnsjdvn to Register Account page")
 	public void user_navigates_to_register_account_page() {
 	
 		hp=new HomePage(BaseClass.getDriver());
